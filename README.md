@@ -1,4 +1,4 @@
-# Capacitação TEC - Byron.solutions
+# Capacitação TEC - byron.solutions
 
 ## Sobre o Projeto
 Este repositório contém o projeto do programa de capacitação técnica da byron.solutions, focando no desenvolvimento de web utilizando Tailwind CSS para estilização.
